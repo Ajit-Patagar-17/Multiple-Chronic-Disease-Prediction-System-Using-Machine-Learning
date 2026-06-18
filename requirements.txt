@@ -4,4 +4,4 @@ scikit-learn
 xgboost
 streamlit
 joblib
-tensorflow==2.16.1
+# tensorflow==2.16.1
